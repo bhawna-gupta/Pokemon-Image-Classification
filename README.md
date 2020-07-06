@@ -21,7 +21,7 @@ Implemented from scratch
 
 ## Testing Accuracy
 
-* Accuracy - 68.54%
+* Accuracy - 69.66%
 
 * Classification Report
 
